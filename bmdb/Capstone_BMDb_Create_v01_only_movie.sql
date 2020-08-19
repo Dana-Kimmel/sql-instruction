@@ -23,7 +23,7 @@ Director 	varchar(255) 	not null
     (5, 'Blazing Saddles', 1974, 'R', 'Mel Brooks'),
     (6, 'The Evil Dead', 1981, 'NC-17', 'Sam Raimi'),
     (7, 'The Shining', 1980, 'R', 'Stanley Kubrick'),
-    (8, 'The Return of the Living Dead', 1985, 'R', 'Dan OBannan'),
+    (8, 'The Return of the Living Dead', 1985, 'R', 'Dan' 'O' 'Bannan'),
     (9, 'Shaun of the Dead', 2004, 'R', 'Edgar Wright')
     ; 
     
